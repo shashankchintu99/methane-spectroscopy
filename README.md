@@ -1,31 +1,18 @@
-Methane Spectroscopy Data Analysis Project
+#Methane Spectroscopy Data Analysis Project
 This repository contains datasets and analysis notebooks for methane spectroscopy research. The project focuses on processing and analyzing spectroscopic data for methane detection and characterization.
 Dataset Organization
-Total Dataset
-
-Location: datasets/total_dataset/
-Description: Complete collection of raw spectroscopic measurements
-Contents:
-
-Raw spectral data
-Calibration measurements
-Environmental parameters
-Metadata files
 
 
+##Dataset Links
 
-Final Dataset
+###Total Dataset
+https://drive.google.com/drive/folders/1DP6A2dHkYgkBq1wxjexQdFH5dkt6A1PM?usp=drive_link
 
-Location: datasets/final_dataset/
-Description: Processed and cleaned dataset ready for analysis
-Contents:
+###Final Dataset
+https://drive.google.com/drive/folders/1BM0peOiTBg3ZL-Bv2TQt3qpaUCZucMnO?usp=drive_link
 
-Preprocessed spectral data
-Normalized measurements
-Feature-extracted data
-Quality-controlled samples
+###Notebooks
+Located in /notebooks directory
 
 
 
-Notebook Organization
-All analysis notebooks are located in the notebooks/ directory:
